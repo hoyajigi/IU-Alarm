@@ -1,0 +1,20 @@
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\ApplicationIcon.png
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\Background.png
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\IU Alarm.dll
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\IU Alarm.pdb
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\AppManifest.xaml
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\IU_Alarm.xap
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\Microsoft.Phone.Controls.dll
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\Bin\Release\Microsoft.Phone.Controls.xml
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\obj\Release\ResolveAssemblyReference.cache
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\obj\Release\App.g.i.cs
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\obj\Release\AddNotification.g.i.cs
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\obj\Release\MainPage.g.i.cs
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\obj\Release\ShowParams.g.i.cs
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\obj\Release\IU Alarm.g.resources
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\obj\Release\IU Alarm.dll
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\obj\Release\IU Alarm.pdb
+c:\users\hoyajigi\documents\visual studio 2010\Projects\IU Alarm\IU Alarm\obj\Release\XapCacheFile.xml
